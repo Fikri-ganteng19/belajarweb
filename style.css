@@ -1,0 +1,44 @@
+/* Body Style */
+body {
+  background-color: #f0f4f8;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* Logo Background */
+.logo-box {
+  width: 200px;
+  height: 200px;
+  background-image: url('logoumpr.jpg'); 
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 40px auto 20px auto; 
+}
+
+/* Style untuk judul */
+h1 {
+  color: #0a3d62;
+  margin-bottom: 10px;
+}
+
+/* Style untuk paragraf dan link */
+p {
+  color: #333;
+  font-size: 18px;
+}
+
+/* Style untuk link */
+a {
+  color: #0c5b9b;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Hover effect untuk link */
+a:hover {
+  text-decoration: underline;
+  color: #064073;
+}
